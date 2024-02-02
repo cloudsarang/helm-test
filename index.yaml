@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    created: "2024-02-02T02:46:14.111675852Z"
+    digest: 15dea48c90b3032aa4e8fcd280ac59ace33cbb16e13abae193ad8f83dc1f0aac
+    name: myapp
+    urls:
+    - https://cloudsarang.github.io/helm-test/myapp-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-02T02:46:14.111358534Z"
